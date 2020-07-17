@@ -1,4 +1,4 @@
-# GlobalNewspaperScraper
+# Global Newspaper Scraper
 
 Real-time word-scraper for the world's top newspapers
 
