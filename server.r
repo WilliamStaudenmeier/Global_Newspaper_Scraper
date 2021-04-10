@@ -24,7 +24,7 @@ responses = c("https://nytimes.com"
   ,  "https://ekstrabladet.dk/"
   , "https://www.origo.hu/index.html"
   
-  
+#  
 )
 
 
